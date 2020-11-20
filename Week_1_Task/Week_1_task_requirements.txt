@@ -1,0 +1,7 @@
+Week 1: (Make Note on google drive and repo in bitbucket for source code)
+What is Big Data
+What is role of Data Engineer
+What Spark and Why Spark
+PySpark - https://www.tutorialspoint.com/pyspark/index.htm (This is minimum you have to go through. You can even go through any other tutorials on youtube to get understanding of pyspark and Spark) 
+Understanding Spark architecture and  try to  relate to what you have learned.
+Some practice running spark programs 
