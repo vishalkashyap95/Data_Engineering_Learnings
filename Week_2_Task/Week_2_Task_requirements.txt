@@ -1,0 +1,26 @@
+Week 2 (Apache Airflow):
+Links:
+Official Link : https://airflow.apache.org/
+Tutorial link: https://airflow.apache.org/docs/stable/tutorial.html
+Others: You are free to explore other sources to learn Apache airflow. Below are minimum points you should know.
+
+What is Apache Airflow
+Why is it used?
+What are different alternatives available?
+How to install Airflow
+Create and run some sample DAGs and try to schedule some python scripts in it.
+User Authentication on Airflow
+Use Mysql/postgres as back end db for airflow
+Different operators in Airflow
+Explore different commands for airflow cmd
+Create/Define dependencies between Task/Dags
+Cross Task communication using xcom
+Running executors as local or using celery
+Run airflow web server and scheduler as daemon service on your local rather than manually running start and stop command.
+service start airflow
+service stop airflow
+service restart airflow
+Keep the DAG in git. No need to manually edit DAG on the server. So keep dag in git in a different folder than the default DAG folder i.e in the source code itself.
+Check with logs
+Check with different integrations supported by Airflow
+Go through the google cloud composer service by GCP.
