@@ -1,0 +1,22 @@
+Week 3 
+Assignment 1 
+Create a Python script which downloads CSV file from a particular email id. It should filter based on From and subject and save the file to the local directory.
+Create a DAG which will run every hour
+Schedule the above script in DAG
+On failure/retry you should get an email
+should have 2 retries 
+Assignment 2 
+Create a pyspark script which will read data from particular table from Mysql/Postgres database
+Perform some operations/transformation on the data and save the result to local file storage
+Schedule Spark command in Airflow 
+Which will run every day at specific time
+On failure/retry you should get an email
+should have 2 retries
+Assignment 3
+MoviLens dataset
+Dataset url:https://grouplens.org/datasets/movielens/
+Use PySpark for the followings
+Find the Most Popular Movie
+Assignment 4 
+Spark Streaming
+Real-time Monitoring of the Most Popular Hashtags on Twitter
