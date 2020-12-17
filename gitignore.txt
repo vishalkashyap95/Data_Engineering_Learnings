@@ -3,7 +3,7 @@
 *.tgz
 **.tgz
 
-Week_3_Task/destination_folder/*
+Week_3_Task/destination_folder/**
 
 .idea/
 __pycache__/
