@@ -3,7 +3,8 @@
 *.tgz
 **.tgz
 
-Week_3_Task/destination_folder/**
+/Week_3_Task/destination_folder/**
+/twitter_api_keys.txt
 
 .idea/
 __pycache__/
