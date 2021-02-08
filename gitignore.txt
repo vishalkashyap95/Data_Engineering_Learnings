@@ -5,6 +5,7 @@
 
 /Week_3_Task/destination_folder/**
 /twitter_api_keys.txt
+/Week_3_Task/Transformed_emp_df.csv
 
 .idea/
 __pycache__/

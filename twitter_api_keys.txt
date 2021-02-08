@@ -1,0 +1,7 @@
+# Tutorial followed
+# https://towardsdatascience.com/sentiment-analysis-on-streaming-twitter-data-using-spark-structured-streaming-python-fc873684bfe3
+
+consumer_key = "jaQS6I4QZMbBrbeMHryb4kUcG"
+consumer_secret = "0ScmPonNpWJjS5Jy16xxHs57rcdBRaFtGTjzFrN19TC601azFt"
+access_token = "1350361982466052098-E3i2XEuyyYd9Pz4VPw5Y8gxuamsGuN"
+access_secret = "LRfJfQbQA6He99MWVBoUpa2rmdzBKuVuaUxOw9KgorfVQ"
